@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  deadline: 2019-03-21 10:53:36
+  completed: false
+
+two:
+  title: MyString
+  deadline: 2019-03-21 10:53:36
+  completed: false
