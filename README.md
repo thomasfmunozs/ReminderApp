@@ -23,9 +23,3 @@ Se montó la aplicación con los requerimientos básicos: backend en rails con g
 
 Se pueden crear y eliminar recordatorios, también se pueden marcar como completados, pero no se refleja enseguida en la interfaz (el cambio si se refleja en la base de datos) por un error que tiene que ver con los tipos y probablemente por anidar 2 mutaciones, que fue algo que tuve que hacer y no estoy seguro de cuales son las limitaciones de dicha anidación. No pude solucionarlo.
 Fuera de eso (y de que pudo ser muuucho más bonita la página) funciona bien.
-
-Principalmente mi trabajo se ve en las carpetas
-
-```reminders_api/```
-
-```reminders_app/```
